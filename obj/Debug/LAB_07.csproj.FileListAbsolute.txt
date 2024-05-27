@@ -1,0 +1,12 @@
+E:\Dev\C#\LAB_07\LAB_07\bin\Debug\Database.mdf
+E:\Dev\C#\LAB_07\LAB_07\bin\Debug\Database_log.ldf
+E:\Dev\C#\LAB_07\LAB_07\bin\Debug\LAB_07.exe.config
+E:\Dev\C#\LAB_07\LAB_07\bin\Debug\LAB_07.exe
+E:\Dev\C#\LAB_07\LAB_07\bin\Debug\LAB_07.pdb
+E:\Dev\C#\LAB_07\LAB_07\obj\Debug\LAB_07.csproj.AssemblyReference.cache
+E:\Dev\C#\LAB_07\LAB_07\obj\Debug\LAB_07.Form1.resources
+E:\Dev\C#\LAB_07\LAB_07\obj\Debug\LAB_07.Properties.Resources.resources
+E:\Dev\C#\LAB_07\LAB_07\obj\Debug\LAB_07.csproj.GenerateResource.cache
+E:\Dev\C#\LAB_07\LAB_07\obj\Debug\LAB_07.csproj.CoreCompileInputs.cache
+E:\Dev\C#\LAB_07\LAB_07\obj\Debug\LAB_07.exe
+E:\Dev\C#\LAB_07\LAB_07\obj\Debug\LAB_07.pdb
